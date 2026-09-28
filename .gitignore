@@ -1,0 +1,21 @@
+# Git ignore rules
+
+*.class
+bin/
+out/
+build/
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+*.bak
+*.swp
+*.jar
+*.war
