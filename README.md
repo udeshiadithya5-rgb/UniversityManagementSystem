@@ -85,20 +85,20 @@ Develop a **Java console application** that manages university student records a
 
 | # | Requirement | Implementation | Status |
 |---|-------------|----------------|--------|
-| 1 | Store student records (ID, Name, Programme, Marks) | `Student.java` |
-| 2 | Linked list for student management | `StudentLinkedList.java` | 
-| 3 | Stack for recent actions/undo | `ActionStack.java` | 
-| 4 | Queue for service requests (FIFO) | `ServiceQueue.java` | 
-| 5 | BST for organizing students by ID | `StudentBST.java` | 
-| 6 | Hashing for efficient ID search | `StudentHashTable.java` |
-| 7 | Graph for campus locations | `Graph.java` |
-| 8 | Adjacency list representation | `Graph.java` |
-| 9 | Add/remove locations & connections | `Graph.java` |
-| 10 | Display campus network | `Graph.displayGraph()` |
-| 11 | BFS/DFS traversal | `GraphTraversal.java` |
-| 12 | CRUD operations for students | `StudentLinkedList.java` |
-| 13 | Menu-driven console interface | `Main.java` |
-| 14 | Input validation & error handling | All classes |
+| 1 | Store student records (ID, Name, Programme, Marks) | `Student.java` | Done
+| 2 | Linked list for student management | `StudentLinkedList.java` | Done
+| 3 | Stack for recent actions/undo | `ActionStack.java` | Done
+| 4 | Queue for service requests (FIFO) | `ServiceQueue.java` | Done
+| 5 | BST for organizing students by ID | `StudentBST.java` | Done
+| 6 | Hashing for efficient ID search | `StudentHashTable.java` | Done
+| 7 | Graph for campus locations | `Graph.java` | Done
+| 8 | Adjacency list representation | `Graph.java` | Done
+| 9 | Add/remove locations & connections | `Graph.java` | Done
+| 10 | Display campus network | `Graph.displayGraph()` | Done
+| 11 | BFS/DFS traversal | `GraphTraversal.java` | Done
+| 12 | CRUD operations for students | `StudentLinkedList.java` | Done
+| 13 | Menu-driven console interface | `Main.java` | Done
+| 14 | Input validation & error handling | All classes | Done
 
 ---
 
