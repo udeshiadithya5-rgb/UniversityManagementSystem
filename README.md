@@ -53,7 +53,7 @@
 | Field | Details |
 |-------|---------|
 | **Student ID** | 23DA2-0225 |
-| **Name** | ManodHya Ravikumudu |
+| **Name** | Manodhya Ravikumudu |
 | **Assigned Responsibility** | Graph Implementation, Campus Locations, Connections, and BFS/DFS Traversal |
 | **Individual Contribution** | • Implemented `Graph.java` using Adjacency List:<br>&nbsp;&nbsp;- `addLocation()` - Add campus location (vertex)<br>&nbsp;&nbsp;- `removeLocation()` - Remove location and all edges<br>&nbsp;&nbsp;- `addConnection()` - Add undirected edge between locations<br>&nbsp;&nbsp;- `removeConnection()` - Remove edge<br>&nbsp;&nbsp;- `displayGraph()` - Show complete campus network<br>&nbsp;&nbsp;- `displayNeighbors()` - Show adjacent locations<br>• Implemented `GraphTraversal.java`:<br>&nbsp;&nbsp;- `bfs()` - Breadth-First Search using Queue<br>&nbsp;&nbsp;- `dfs()` - Depth-First Search (recursive)<br>&nbsp;&nbsp;- `findShortestPath()` - BFS-based shortest path finder<br>• Used HashMap and ArrayList for efficient adjacency list storage |
 
